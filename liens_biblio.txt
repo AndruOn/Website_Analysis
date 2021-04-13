@@ -1,0 +1,15 @@
+overleaf:
+https://www.overleaf.com/6213791385xwqndstrtmtv
+
+bibliographie:
+
+
+lien_utiles:
+
+
+Voilà ma suite d'outils qui peuvent vous aider:
+
+    https://dnsdumpster.com/ vous propose en autre un beau graphique pour visualiser le mapping DNS de votre site
+    https://mxtoolbox.com/SuperTool.aspx vous permet d'effectuer des recherches pour des types de records DNS (et DNSSEC/tls dans une moindre mesure)
+    https://securityheaders.io/ ¨Pour vos headers HTTP
+    http://www.cookie-checker.com/ Pour montrer les cookies propres au site et ceux de ses partenaires (avec leur but/origine)
