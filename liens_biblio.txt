@@ -3,8 +3,14 @@ https://www.overleaf.com/6213791385xwqndstrtmtv
 
 bibliographie:
 
-
+----------------------------------------------
 lien_utiles:
+---------------------------------------------
+har viewer:
+http://www.softwareishard.com/har/viewer/
+
+DNS-HTTP:
+https://www.gensupport.net/tools/dns-http-check.html
 
 
 Voilà ma suite d'outils qui peuvent vous aider:
