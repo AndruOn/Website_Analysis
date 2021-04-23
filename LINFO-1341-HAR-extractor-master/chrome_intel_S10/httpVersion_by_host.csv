@@ -1,0 +1,6 @@
+httpVersion,host,Requests
+HTTP/1.1,speed.cloudflare.com,169
+HTTP/1.1,api.mapbox.com,13
+http/1.1,api.mapbox.com,12
+http/2.0,events.mapbox.com,1
+http/2.0,www.cloudflare.com,1

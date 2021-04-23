@@ -1,0 +1,12 @@
+host,extension,Requests
+speed.cloudflare.com,None,142
+speed.cloudflare.com,js,22
+api.mapbox.com,pbf,20
+api.mapbox.com,json,2
+api.mapbox.com,png,2
+speed.cloudflare.com,css,2
+speed.cloudflare.com,png,2
+api.mapbox.com,None,1
+events.mapbox.com,None,1
+speed.cloudflare.com,gif,1
+www.cloudflare.com,ico,1
